@@ -1,8 +1,7 @@
 # Crypto Clustering Project
 
 ## Files
-Download the following files to help you get started:
-- Module 19 Challenge files (external link).
+Download the files from module challenge 19.
 
 ## Instructions
 1. **Rename the File**
